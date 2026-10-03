@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of reflar/pretty-mail.** Not for installation: use [Packagist](https://packagist.org/packages/reflar/pretty-mail) or the [upstream repository](https://github.com/FriendsOfFlarum/pretty-mail).
 
-**0** versions archived · Latest: [`1.1.2`](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v1.1.2) · License: `MIT` · Flarum: `^1.5.0`
+**20** versions archived · Latest: [`1.1.2`](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v1.1.2) · License: `MIT` · Flarum: `^1.5.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-09-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.0) |
+| `0.1.0-beta.1` | 2018-04-18 | `^0.1.0-beta.7.1` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.2` | 2018-04-19 | `^0.1.0-beta.7.1` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.0-beta.2) |
+| `0.1.0-beta.3` | 2018-09-17 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.0-beta.3) |
+| `0.1.1` | 2019-09-23 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.1) |
+| `0.1.2` | 2019-09-24 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.2) |
+| `0.1.3` | 2019-09-24 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.3) |
+| `0.1.4` | 2019-10-08 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.4) |
+| `0.1.5` | 2019-10-29 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.5) |
+| `0.1.6` | 2019-11-03 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/reflar-pretty-mail/tree/archive/v0.1.6) |
+
+[View all 20 versions](https://github.com/flarchive/reflar-pretty-mail/tags)
 
 Catalog entry: [packages/reflar-pretty-mail.json](https://github.com/flarchive/archive-index/blob/main/packages/reflar-pretty-mail.json)
 
